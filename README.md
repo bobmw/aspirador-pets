@@ -2,7 +2,7 @@
 <h1 align="center">Aspirador Pets</h1>
 
 <p align="center">
-<img width="500" src="./print.png" />
+<img width="500" src="./images/print.png" />
 </p>
 
 <p align="center">
